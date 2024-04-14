@@ -1,0 +1,158 @@
+body {
+    background: linear-gradient(to bottom, #000, #1b1b1b); /* Gradient Black Background */
+    color: white; /* Font Color */
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif; /* Change to your preferred friendly font */
+  }
+
+  
+  .member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .member p {
+    margin-left: 20px;
+  }
+  
+  .member img {
+    max-width: 200px;
+    margin-right: 20px;
+  }
+  
+  .logo {
+    /* Add styles for logo placeholder */
+  }
+  
+  h1 {
+    font-size: 24px; /* Adjust as needed */
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: orange; /* Font Color */
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline;
+    color: #ff7f00; /* Orange Hover Effect */
+  }
+  
+  #founders {
+    padding: 20px;
+  }
+  
+  #founders h2 {
+    color: orange;
+  }
+  
+  .member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .member p {
+    margin-left: 20px;
+  }
+  
+  .member img {
+    max-width: 200px;
+    margin-right: 20px;
+  }
+  
+  #companies {
+    padding: 20px;
+  }
+  
+  #companies h2 {
+    color: orange;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #333;
+    color: white;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #222;
+  }
+  
+  .logo {
+    width: 75px;
+    height: 75px;
+  }
+  
+  /* CSS for Buy and Sell buttons */
+button {
+    padding: 8px 16px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #ff7f00; /* Lighter shade of orange */
+  }
+  
+  /* Improved table styling */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  
+  th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #666; /* Adding border between rows */
+  }
+  
+  th {
+    background-color: #333;
+    color: white;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #222;
+  }
+  
+  .logo {
+    width: 75px;
+    height: 75px;
+  }
+  
+  
